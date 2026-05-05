@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m currently working on<br>Building responsive and user-friendly frontend projects<br><br>I’m looking to collaborate on<br>Creative web development and UI-focused projects<br><br>I’m looking for help with<br>Advanced JavaScript concepts and real-world applications<br><br>I’m currently learning<br>HTML • CSS • JavaScript • Modern frontend practices<br><br>Ask me about<br>Frontend development, UI design, and clean layouts<br><br>Fun fact<br>I enjoy turning ideas into interactive web experiences
 
 ## 🌐 Socials:
